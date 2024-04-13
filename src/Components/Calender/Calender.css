@@ -1,0 +1,40 @@
+
+
+.react-calendar__tile--active {
+    background-color: #ffcc00; /* Set the background color of the active date */
+  }
+  
+  .react-calendar__tile--now {
+    background-color: #ff6666; /* Set the background color of today's date */
+  }
+  
+  .react-calendar__tile--range {
+    background-color: #66ccff; /* Set the background color of the selected date range */
+  }
+  
+  
+.react-calendar__navigation {
+    background:linear-gradient(to left, #25c481, #25b7c4);
+    font-size: 30px;
+    height:100px;
+    color: #ffffff;
+    /* border-top-left-radius:15px ;
+    border-top-right-radius: 15px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* Set the background color of the navigation bar */
+  }
+
+  .calender-container{
+   
+    margin-top: 20px;
+  }
+
+.custom-calender{
+    font-size: 20px;
+    height:400px;
+    width:600px;
+    background-color: #ffffff;
+    box-shadow: 2px 2px 5px;
+    text-decoration: none;
+    /* border-radius: 15px; */
+   
+}
